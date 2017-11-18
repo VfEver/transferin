@@ -153,7 +153,7 @@ p {
     background-position: 2rem center;
     background-repeat: no-repeat;
     padding-left: 5rem;
-    padding-top: 2.96875rem;
+    padding-top: 2.6rem;
     height: 7.375rem;
     position: relative;
     background-color: #fff;
@@ -161,9 +161,9 @@ p {
 .input-info {
     border: 0;
     font-family: PingFangSC-Medium;
-    font-size: 2.1rem;
+    font-size: 2rem;
     line-height: 3.21875rem;
-    height: 2.21875rem;
+    height: 2rem;
     width: 75%;
     color: #333;
     outline: 0;
